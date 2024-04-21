@@ -7,6 +7,7 @@ Another study of using nextflow to create a simple pipeline where processes are 
 **Environment setup:**
 
 conda create -n env_48 -c bioconda -c conda-forge skesa mlst quast nextflow
+
 conda activate env_48
 
 **Nextflow script usasge:**
