@@ -12,7 +12,7 @@ conda activate env_48
 
 **Nextflow script usasge:**
 
-nextflow run parallel_asm_mlst.nf --reads <directory with paired-end reads>
+nextflow run parallel_asm_mlst.nf --reads <directory_with_paired-end_reads>
 
 **example:**
 
